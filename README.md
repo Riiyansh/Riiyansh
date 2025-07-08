@@ -1,7 +1,7 @@
 <!-- Typing animation -->
 <h1 align="center">
   	<a href="https://git.io/typing-svg">
-    	<img src="https://readme-typing-svg.herokuapp.com?lines=This+is+Riyansh+Chouhan;Software+Developer+%7C+AI+Builder+%7C+MERN+Stack+Enthusiast;&center=true&size=28&duration=3000&pause=5000&color=259076&font=Fira+Code">
+    	<img src="https://readme-typing-svg.herokuapp.com?lines=This+is+Riyansh+Chouhan;S+DE+%7C+AI+Builder+%7C+MERN+Stack+Enthusiast;&center=true&size=28&duration=3000&pause=5000&color=259076&font=Fira+Code">
 	</a>
 </h1>
 
