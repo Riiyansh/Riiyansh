@@ -83,7 +83,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyanschouhan&theme=darkhub&no-frame=true&row=1&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Riiyansh&theme=darkhub&no-frame=true&row=1&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -92,7 +92,7 @@
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=riyanschouhan&theme=gotham&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Riiyansh&theme=gotham&hide_border=true"/>
   </a>
 </div>
 
