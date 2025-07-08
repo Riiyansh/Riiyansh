@@ -60,10 +60,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=riyanschouhan&theme=gotham&count_private=true&show_icons=true&hide_border=true" />
+    <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=Riiyansh&theme=gotham&count_private=true&show_icons=true&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanschouhan&layout=compact&theme=gotham&hide_border=true" />
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riiyansh&layout=compact&theme=gotham&hide_border=true" />
   </a>
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyanschouhan&theme=gotham&hide_border=true"/>
+    <img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riiyansh&theme=gotham&hide_border=true"/>
   </a>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=312qacqmhjkmy7v64d3a2jxlnc6m&redirect=true">
     <img width="40%" src="https://spotify-github-profile.vercel.app/api/view?uid=312qacqmhjkmy7v64d3a2jxlnc6m&cover_image=true&theme=novatorem&show_offline=false&bar_color=259076&bar_color_cover=false"/>
